@@ -5,7 +5,7 @@
 Para rodar esse projeto, por favor digite:
 
 `
-npm install
+node app.js
 `
 
 <p align="center">
