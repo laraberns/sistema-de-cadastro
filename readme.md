@@ -2,7 +2,7 @@
 
 > :construction: Projeto em construção :construction:
 
-Para rodar esse projeto, por favor digite:
+Para rodar esse projeto, por favor digite o seguinte:
 
 `
 node app.js
