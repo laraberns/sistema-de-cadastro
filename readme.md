@@ -5,7 +5,7 @@
 Para rodar esse projeto, por favor digite:
 
 `
-node app.js
+nodeapp.js
 `
 
 <p align="center">
